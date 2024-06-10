@@ -28,4 +28,4 @@ Customers can get support at the [OceanWP support page](https://oceanwp.org/supp
 
 ## Contributing to OceanWP
 
-If you have a patch or have stumbled upon an issue with OceanWP core, you can contribute to the code. Please read our [contributor guidelines](https://github.com/oceanwp/oceanwp/blob/master/CONTRIBUTING.md) for more information about how you can do this.
+If you have a patch or have stumbled upon an issue with OceanWP core, you can contribute to the code. Please read our [contributor guidelines](https://github.com/oceanwp/oceanwp/blob/master/CONTRIBUTING.md) for more information about how you can do this
