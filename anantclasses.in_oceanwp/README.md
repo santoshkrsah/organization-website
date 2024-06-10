@@ -10,7 +10,7 @@
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 **Tags:** two-columns, right-sidebar, footer-widgets, blog, news, custom-background, custom-menu, post-formats, rtl-language-support, sticky-post, editor-style, threaded-comments, translation-ready, buddypress, custom-colors, featured-images, full-width-template, theme-options, e-commerce
 
-## Description
+## Description.
 
 _OceanWP_ is a versatile and complete Multi-Purpose [WordPress](https://wordpress.org) theme, designed and built by [OceanWP](https://oceanwp.org/) to help you create outstanding and unique websites for every occasion with no limits. It's available to download for free at the site [OceanWP](https://oceanwp.org/).
 
