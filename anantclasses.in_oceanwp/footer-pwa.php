@@ -2,7 +2,7 @@
 /**
  * The template for displaying the footer in PWA.
  *
- * @package OceanWP WordPress theme
+ * @package OceanWP
  * @since   1.8.8
  */
 
