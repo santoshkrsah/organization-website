@@ -2,7 +2,7 @@
 /**
  * The template for displaying 500 pages in PWA.
  *
- * @package OceanWP WordPress theme
+ * @package OceanWP 
  * @since   1.8.8
  */
 
