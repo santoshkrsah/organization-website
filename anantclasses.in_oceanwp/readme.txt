@@ -90,7 +90,7 @@ License: MIT - https://opensource.org/licenses/MIT
 Source: https://select2.github.io
 
 Isotope, Copyright 2015 Metafizzy
-License: GPLv3 - https://www.gnu.org/licenses/gpl-3.0.html
+License: GPLv3 -  https://www.gnu.org/licenses/gpl-3.0.html
 Source: https://isotope.metafizzy.co
 
 NiceScroll, copyright 2016-02-29 InuYaksa*2016
