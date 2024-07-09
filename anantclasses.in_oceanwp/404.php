@@ -5,7 +5,7 @@
  * @package OceanWP 
  */
 
-// Get ID.
+// Get ID.jk
 $get_id = get_theme_mod( 'ocean_error_page_template' );
 
 // Check if page is Elementor page.
