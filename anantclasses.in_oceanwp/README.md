@@ -1,4 +1,4 @@
-# OceanWP 
+# OceanWP  
 
 **Contributors:** The OceanWP Team
 **Requires at least:** WordPress 5.6
